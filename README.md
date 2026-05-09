@@ -1,4 +1,5 @@
-# Arcade App 🎮
+# Arcade App 
+
 
 Aplicación móvil desarrollada con React Native y Expo.
 
@@ -19,3 +20,6 @@ Sala de videojuegos / Arcade.
 - Expo
 - TypeScript
 - pnpm
+
+- Autor:
+- Julian Camilo Avilez Caviedes
