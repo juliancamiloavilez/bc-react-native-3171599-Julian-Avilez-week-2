@@ -21,5 +21,5 @@ Sala de videojuegos / Arcade.
 - TypeScript
 - pnpm
 
-- Autor:
+## Autor:
 - Julian Camilo Avilez Caviedes
